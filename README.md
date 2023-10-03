@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vortex</h1>
+<h3 align="center">A passionate developer from Germany</h3>
 
 - 🔗 I’m currently working on [YARN (Yet Another Realm Nuker)](https://discord.gg/antip2w)
 
