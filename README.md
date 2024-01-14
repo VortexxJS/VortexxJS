@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bedrock-Protocol, Web-Scraping (Selenium, Puppeteer)**
 
-- 📫 How to reach me **Discord: vortex.js**
+- 📫 How to reach me **Discord: vortexjs**
 
 - ⚡ Fun fact **I learned coding by skidding discord bots**
 
