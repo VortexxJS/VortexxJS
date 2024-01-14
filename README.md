@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vortex</h1>
 <h3 align="center">A passionate developer from Germany, who recently got back to programming!</h3>
 
-- 🔗 I’m currently working on [YARN (Yet Another Realm Nuker)](https://discord.gg/antip2w)
+- 🔗 I’m currently working on [Relay+ (Realm AutoMod)](https://discord.gg/antip2w)
 
 - 🌱 I’m currently learning **Bedrock-Protocol, Web-Scraping (Selenium, Puppeteer)**
 
